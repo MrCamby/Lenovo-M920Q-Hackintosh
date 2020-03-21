@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boot-args</key>
+	<string>-disablegfxfirmware nv_disable=1 -igfxvesa -radvesa -nehalem_error_disable -no_compat_check</string>
+	<key>prev-lang:kbd</key>
+	<string>en:0</string>
+</dict>
+</plist>
